@@ -2,6 +2,7 @@
   "domain": "ble_track",
   "name": "BLE Tracker",
   "documentation": "https://www.home-assistant.io/components/bluetooth_le_tracker",
+  "version": "v1",
   "requirements": [
     "pygatt[GATTTOOL]==4.0.5"
   ],
